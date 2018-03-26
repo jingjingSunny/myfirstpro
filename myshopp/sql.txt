@@ -9,3 +9,4 @@ create table user(
 	userpass varchar(50) not null,
 	phone varchar(11) not null
 )
+//≤‚ ‘
